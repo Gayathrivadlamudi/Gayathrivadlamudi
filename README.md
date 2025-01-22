@@ -1,6 +1,4 @@
-![LeetCode Easy](https://img.shields.io/badge/LeetCode-Easy-brightgreen)
-![LeetCode Medium](https://img.shields.io/badge/LeetCode-Medium-yellow)
-![LeetCode Hard](https://img.shields.io/badge/LeetCode-Hard-red)
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=YourLeetCodeUsername)](https://leetcode.com/YourLeetCodeUsername/)
 
 
 
