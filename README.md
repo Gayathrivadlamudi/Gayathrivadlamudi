@@ -1,4 +1,5 @@
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=YourLeetCodeUsername)](https://leetcode.com/YourLeetCodeUsername/)
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=gayathrichowdary441&theme=dark)](https://leetcode.com/gayathrichowdary441/)
+
 
 
 
