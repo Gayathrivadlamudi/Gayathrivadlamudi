@@ -1,21 +1,7 @@
-## My Coding Profiles
+![LeetCode Easy](https://img.shields.io/badge/LeetCode-Easy-brightgreen)
+![LeetCode Medium](https://img.shields.io/badge/LeetCode-Medium-yellow)
+![LeetCode Hard](https://img.shields.io/badge/LeetCode-Hard-red)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-gayathrichowdary441-orange" alt="LeetCode Badge" />
-  <img src="https://img.shields.io/badge/CodeForces-Handle-blue" alt="CodeForces Badge" />
-  <img src="https://img.shields.io/badge/CodeChef-Handle-green" alt="CodeChef Badge" />
-</div>
-
-<style>
-  div img {
-    animation: rotate-badges 6s infinite;
-  }
-  @keyframes rotate-badges {
-    0%, 33% { opacity: 1; }
-    34%, 66% { opacity: 0; }
-    67%, 100% { opacity: 0; }
-  }
-</style>
 
 
 - 👋 Hi, I’m @Gayathrivadlamudi
